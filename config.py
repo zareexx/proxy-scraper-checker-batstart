@@ -36,6 +36,7 @@ HTTP_SOURCES = (
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
     "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+    "https://raw.githubusercontent.com/UserR3X/proxy-list/main/all.txt",
     "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt",
     "https://www.proxy-list.download/api/v1/get?type=http",
     "https://www.proxy-list.download/api/v1/get?type=https",
