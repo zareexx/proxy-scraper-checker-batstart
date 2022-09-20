@@ -37,3 +37,5 @@ Ask for details in [Telegram](https://t.me/monosans) or [VK](https://vk.com/id60
 [MIT](LICENSE)
 
 This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.
+
+Форк и редакция подготовлены командой https://sunrise-protocol.info заходите пообщаться)
