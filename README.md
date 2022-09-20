@@ -9,26 +9,26 @@ Check free anonymous HTTP, SOCKS4, SOCKS5 proxies from different sources. Suppor
 
 ## Usage
 
-- Make sure `Python` version is 3.7 or higher.
-- Install dependencies from `requirements.txt` (`pip install -r requirements.txt`).
-- Edit `config.py` according to your preference.
-- Run `main.py`.
+- Иметь `Python` version is 3.7 или выше.
+- Установка аргументов из файла - `requirements.txt` (`pip install -r requirements.txt`).(при запуске через start.bat нет необходимости, он сам скачает всё нужное)
+- Отредактируйте `config.py` по вашим предпочтениям, можно не трогать.
+- Запускайте `main.py`через консоль Python или запуск через start.bat.
 
-## Folders description
+## Описание папок
 
-When the script finishes running, the following folders will be created:
+После завершения работы скрипта, будут созданны следующие папки:
 
-- `proxies` - proxies with any anonymity level.
+- `proxies` - все собранные прокси, вне зависимости от анонимности.
 
-- `proxies_anonymous` - anonymous proxies.
+- `proxies_anonymous` - Анонимные прокси.
 
-- `proxies_geolocation` - same as `proxies`, but including exit-node's geolocation.
+- `proxies_geolocation` - тоже самое, что папка `proxies`, но с указанием точки выхода прокси.
 
-- `proxies_geolocation_anonymous` - same as `proxies_anonymous`, but including exit-node's geolocation.
+- `proxies_geolocation_anonymous` - тоже самое, что папка `proxies_anonymous`, но с указанием точки выхода прокси.
 
-Geolocation format is ip:port::Country::Region::City.
+Формат гео - ip:port::Country::Region::City.
 
-## Buy me a coffee
+## Контакты автора (не мои) Buy me a coffee
 
 Ask for details in [Telegram](https://t.me/monosans) or [VK](https://vk.com/id607137534).
 
